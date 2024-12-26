@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\bin\Debug\net8.0\ProgressionIterface.exe
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\bin\Debug\net8.0\ProgressionIterface.deps.json
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\bin\Debug\net8.0\ProgressionIterface.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\bin\Debug\net8.0\ProgressionIterface.dll
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\bin\Debug\net8.0\ProgressionIterface.pdb
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.dll
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\refint\ProgressionIterface.dll
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.pdb
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ProgressionIterface.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\ProgressionIterface\ProgressionIterface\obj\Debug\net8.0\ref\ProgressionIterface.dll

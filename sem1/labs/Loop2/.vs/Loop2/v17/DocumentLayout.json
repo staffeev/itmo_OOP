@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thunderobot\\source\\repos\\Loop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E322542C-13C9-412E-9F8D-87A91BE12C44}|Loop2\\Loop2.csproj|c:\\users\\thunderobot\\source\\repos\\loop2\\loop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E322542C-13C9-412E-9F8D-87A91BE12C44}|Loop2\\Loop2.csproj|solutionrelative:loop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\Loop2\\Loop2\\Program.cs",
+              "RelativeDocumentMoniker": "Loop2\\Program.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\Loop2\\Loop2\\Program.cs",
+              "RelativeToolTip": "Loop2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:46:31.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

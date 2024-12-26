@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\bin\Debug\net8.0\BookInterface.exe
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\bin\Debug\net8.0\BookInterface.deps.json
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\bin\Debug\net8.0\BookInterface.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\bin\Debug\net8.0\BookInterface.dll
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\bin\Debug\net8.0\BookInterface.pdb
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.dll
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\refint\BookInterface.dll
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.pdb
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\BookInterface.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\BookInterface\BookInterface\obj\Debug\net8.0\ref\BookInterface.dll

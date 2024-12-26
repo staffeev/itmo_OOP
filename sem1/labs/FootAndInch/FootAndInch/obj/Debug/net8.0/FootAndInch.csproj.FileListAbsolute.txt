@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\bin\Debug\net8.0\FootAndInch.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\bin\Debug\net8.0\FootAndInch.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\bin\Debug\net8.0\FootAndInch.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\bin\Debug\net8.0\FootAndInch.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\bin\Debug\net8.0\FootAndInch.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\refint\FootAndInch.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\FootAndInch.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\FootAndInch\FootAndInch\obj\Debug\net8.0\ref\FootAndInch.dll

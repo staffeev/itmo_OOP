@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\bin\Debug\net8.0\PointLine.exe
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\bin\Debug\net8.0\PointLine.deps.json
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\bin\Debug\net8.0\PointLine.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\bin\Debug\net8.0\PointLine.dll
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\bin\Debug\net8.0\PointLine.pdb
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.dll
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\refint\PointLine.dll
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.pdb
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\PointLine.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\PointLine\PointLine\obj\Debug\net8.0\ref\PointLine.dll

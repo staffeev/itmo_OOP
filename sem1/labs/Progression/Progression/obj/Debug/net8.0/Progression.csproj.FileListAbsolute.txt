@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\Progression\Progression\bin\Debug\net8.0\Progression.exe
+C:\Users\Thunderobot\source\repos\Progression\Progression\bin\Debug\net8.0\Progression.deps.json
+C:\Users\Thunderobot\source\repos\Progression\Progression\bin\Debug\net8.0\Progression.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\Progression\Progression\bin\Debug\net8.0\Progression.dll
+C:\Users\Thunderobot\source\repos\Progression\Progression\bin\Debug\net8.0\Progression.pdb
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.dll
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\refint\Progression.dll
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.pdb
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\Progression.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\Progression\Progression\obj\Debug\net8.0\ref\Progression.dll

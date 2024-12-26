@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\Utils\Utils\bin\Debug\net8.0\Utils.exe
+C:\Users\Thunderobot\source\repos\Utils\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\Thunderobot\source\repos\Utils\Utils\bin\Debug\net8.0\Utils.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\Utils\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\Thunderobot\source\repos\Utils\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\Utils.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\Utils\Utils\obj\Debug\net8.0\ref\Utils.dll

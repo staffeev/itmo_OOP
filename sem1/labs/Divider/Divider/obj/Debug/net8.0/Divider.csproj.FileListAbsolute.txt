@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\bin\Debug\net8.0\Divider.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\bin\Debug\net8.0\Divider.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\bin\Debug\net8.0\Divider.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\bin\Debug\net8.0\Divider.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\bin\Debug\net8.0\Divider.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\refint\Divider.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\Divider.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Divider\Divider\obj\Debug\net8.0\ref\Divider.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingProjects\\OOP_labs\\lab1_project\\StructType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32E0A6-36D5-4D61-9D3E-8E99CA1A4C6B}|StructType\\StructType.csproj|d:\\programmingprojects\\oop_labs\\lab1_project\\structtype\\structtype\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32E0A6-36D5-4D61-9D3E-8E99CA1A4C6B}|StructType\\StructType.csproj|solutionrelative:structtype\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct.cs",
+              "DocumentMoniker": "D:\\ProgrammingProjects\\OOP_labs\\lab1_project\\StructType\\StructType\\Struct.cs",
+              "RelativeDocumentMoniker": "StructType\\Struct.cs",
+              "ToolTip": "D:\\ProgrammingProjects\\OOP_labs\\lab1_project\\StructType\\StructType\\Struct.cs",
+              "RelativeToolTip": "StructType\\Struct.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:53:59.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

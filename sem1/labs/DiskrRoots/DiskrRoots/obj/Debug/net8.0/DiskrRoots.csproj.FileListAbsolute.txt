@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\bin\Debug\net8.0\DiskrRoots.exe
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\bin\Debug\net8.0\DiskrRoots.deps.json
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\bin\Debug\net8.0\DiskrRoots.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\bin\Debug\net8.0\DiskrRoots.dll
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\bin\Debug\net8.0\DiskrRoots.pdb
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.dll
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\refint\DiskrRoots.dll
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.pdb
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\DiskrRoots.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\DiskrRoots\DiskrRoots\obj\Debug\net8.0\ref\DiskrRoots.dll

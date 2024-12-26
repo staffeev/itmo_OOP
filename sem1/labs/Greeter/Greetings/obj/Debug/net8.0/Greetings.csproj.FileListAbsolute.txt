@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\bin\Debug\net8.0\Greetings.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\bin\Debug\net8.0\Greetings.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\bin\Debug\net8.0\Greetings.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\bin\Debug\net8.0\Greetings.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Greeter\Greetings\obj\Debug\net8.0\ref\Greetings.dll

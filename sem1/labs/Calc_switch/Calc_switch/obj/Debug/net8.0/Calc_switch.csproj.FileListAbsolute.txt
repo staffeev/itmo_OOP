@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\refint\Calc_switch.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Calc_switch\Calc_switch\obj\Debug\net8.0\ref\Calc_switch.dll

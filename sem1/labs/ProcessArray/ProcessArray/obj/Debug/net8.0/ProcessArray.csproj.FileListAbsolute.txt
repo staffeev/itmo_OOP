@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\bin\Debug\net8.0\ProcessArray.exe
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\bin\Debug\net8.0\ProcessArray.deps.json
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\bin\Debug\net8.0\ProcessArray.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\bin\Debug\net8.0\ProcessArray.dll
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\bin\Debug\net8.0\ProcessArray.pdb
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.dll
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\refint\ProcessArray.dll
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.pdb
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ProcessArray.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\ProcessArray\ProcessArray\obj\Debug\net8.0\ref\ProcessArray.dll

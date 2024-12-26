@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\Loop\Loop\bin\Debug\net8.0\Loop.exe
+C:\Users\Thunderobot\source\repos\Loop\Loop\bin\Debug\net8.0\Loop.deps.json
+C:\Users\Thunderobot\source\repos\Loop\Loop\bin\Debug\net8.0\Loop.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\Loop\Loop\bin\Debug\net8.0\Loop.dll
+C:\Users\Thunderobot\source\repos\Loop\Loop\bin\Debug\net8.0\Loop.pdb
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.dll
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\refint\Loop.dll
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.pdb
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\Loop.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\Loop\Loop\obj\Debug\net8.0\ref\Loop.dll

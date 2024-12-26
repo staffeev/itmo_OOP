@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\refint\LeapYear.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\LeapYear\LeapYear\obj\Debug\net8.0\ref\LeapYear.dll

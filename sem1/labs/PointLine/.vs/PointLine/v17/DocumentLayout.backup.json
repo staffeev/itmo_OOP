@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thunderobot\\source\\repos\\PointLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A4F3D5-9CAA-42A5-A469-94D564DDEB4F}|PointLine\\PointLine.csproj|c:\\users\\thunderobot\\source\\repos\\pointline\\pointline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A4F3D5-9CAA-42A5-A469-94D564DDEB4F}|PointLine\\PointLine.csproj|solutionrelative:pointline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\PointLine\\PointLine\\Program.cs",
+              "RelativeDocumentMoniker": "PointLine\\Program.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\PointLine\\PointLine\\Program.cs",
+              "RelativeToolTip": "PointLine\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:26:52.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

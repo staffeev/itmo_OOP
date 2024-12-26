@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\Book2\Book2\bin\Debug\net8.0\Book2.exe
+C:\Users\Thunderobot\source\repos\Book2\Book2\bin\Debug\net8.0\Book2.deps.json
+C:\Users\Thunderobot\source\repos\Book2\Book2\bin\Debug\net8.0\Book2.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\Book2\Book2\bin\Debug\net8.0\Book2.dll
+C:\Users\Thunderobot\source\repos\Book2\Book2\bin\Debug\net8.0\Book2.pdb
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.dll
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\refint\Book2.dll
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.pdb
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\Book2.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\Book2\Book2\obj\Debug\net8.0\ref\Book2.dll

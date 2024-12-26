@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\bin\Debug\net8.0\Cycle2.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\bin\Debug\net8.0\Cycle2.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\bin\Debug\net8.0\Cycle2.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\bin\Debug\net8.0\Cycle2.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\bin\Debug\net8.0\Cycle2.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\refint\Cycle2.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\Cycle2.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Cycle2\Cycle2\obj\Debug\net8.0\ref\Cycle2.dll

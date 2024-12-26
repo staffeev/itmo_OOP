@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.exe
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.deps.json
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.dll
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.pdb
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.dll
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\refint\MatrixMultiply.dll
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.pdb
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\ref\MatrixMultiply.dll

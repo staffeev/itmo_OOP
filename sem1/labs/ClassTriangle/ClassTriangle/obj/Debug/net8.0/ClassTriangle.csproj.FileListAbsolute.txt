@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\bin\Debug\net8.0\ClassTriangle.exe
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\bin\Debug\net8.0\ClassTriangle.deps.json
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\bin\Debug\net8.0\ClassTriangle.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\bin\Debug\net8.0\ClassTriangle.dll
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\bin\Debug\net8.0\ClassTriangle.pdb
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.dll
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\refint\ClassTriangle.dll
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.pdb
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ClassTriangle.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\ClassTriangle\ClassTriangle\obj\Debug\net8.0\ref\ClassTriangle.dll

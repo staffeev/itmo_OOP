@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\bin\Debug\net8.0\DiceEvent.exe
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\bin\Debug\net8.0\DiceEvent.deps.json
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\bin\Debug\net8.0\DiceEvent.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\bin\Debug\net8.0\DiceEvent.dll
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\bin\Debug\net8.0\DiceEvent.pdb
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.dll
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\refint\DiceEvent.dll
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.pdb
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\DiceEvent.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\DiceEvent\DiceEvent\obj\Debug\net8.0\ref\DiceEvent.dll

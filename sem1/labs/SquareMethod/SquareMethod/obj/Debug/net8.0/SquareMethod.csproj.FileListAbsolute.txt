@@ -1,0 +1,14 @@
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\bin\Debug\net8.0\SquareMethod.exe
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\bin\Debug\net8.0\SquareMethod.deps.json
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\bin\Debug\net8.0\SquareMethod.runtimeconfig.json
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\bin\Debug\net8.0\SquareMethod.dll
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\bin\Debug\net8.0\SquareMethod.pdb
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.AssemblyInfoInputs.cache
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.AssemblyInfo.cs
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.csproj.CoreCompileInputs.cache
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.dll
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\refint\SquareMethod.dll
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.pdb
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\SquareMethod.genruntimeconfig.cache
+C:\Users\Thunderobot\source\repos\SquareMethod\SquareMethod\obj\Debug\net8.0\ref\SquareMethod.dll

@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\refint\Shapeifelse.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shapeifelse\Shapeifelse\obj\Debug\net8.0\ref\Shapeifelse.dll

@@ -1,0 +1,14 @@
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\bin\Debug\net8.0\Shooting.exe
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\bin\Debug\net8.0\Shooting.deps.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\bin\Debug\net8.0\Shooting.runtimeconfig.json
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\bin\Debug\net8.0\Shooting.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\bin\Debug\net8.0\Shooting.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.AssemblyInfo.cs
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\refint\Shooting.dll
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.pdb
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\Shooting.genruntimeconfig.cache
+D:\ProgrammingProjects\OOP_labs\lab1_project\Shooting\Shooting\obj\Debug\net8.0\ref\Shooting.dll

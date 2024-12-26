@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingProjects\\OOP_labs\\lab1_project\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A3F0B0-924B-4706-9891-8A29B3A11DC4}|BankAccount\\BankAccount.csproj|d:\\programmingprojects\\oop_labs\\lab1_project\\bankaccount\\bankaccount\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A3F0B0-924B-4706-9891-8A29B3A11DC4}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\ProgrammingProjects\\OOP_labs\\lab1_project\\BankAccount\\BankAccount\\Enum.cs",
+              "RelativeDocumentMoniker": "BankAccount\\Enum.cs",
+              "ToolTip": "D:\\ProgrammingProjects\\OOP_labs\\lab1_project\\BankAccount\\BankAccount\\Enum.cs",
+              "RelativeToolTip": "BankAccount\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:28:08.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
