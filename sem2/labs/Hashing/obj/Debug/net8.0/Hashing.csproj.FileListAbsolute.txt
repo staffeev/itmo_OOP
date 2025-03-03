@@ -1,0 +1,15 @@
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.AssemblyInfo.cs
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.sourcelink.json
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\bin\Debug\net8.0\Hashing.exe
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\bin\Debug\net8.0\Hashing.deps.json
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\bin\Debug\net8.0\Hashing.runtimeconfig.json
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\bin\Debug\net8.0\Hashing.dll
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\bin\Debug\net8.0\Hashing.pdb
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.dll
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\refint\Hashing.dll
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.pdb
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\Hashing.genruntimeconfig.cache
+D:\ProgrammingProjects\itmo_OOP\sem2\labs\Hashing\obj\Debug\net8.0\ref\Hashing.dll

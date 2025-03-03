@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingProjects\\itmo_OOP\\sem2\\labs\\GraphAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1295C1F-FBD0-4362-9A4E-4DD3F0B12B60}|GraphAlgorithms.csproj|d:\\programmingprojects\\itmo_oop\\sem2\\labs\\graphalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1295C1F-FBD0-4362-9A4E-4DD3F0B12B60}|GraphAlgorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgrammingProjects\\itmo_OOP\\sem2\\labs\\GraphAlgorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProgrammingProjects\\itmo_OOP\\sem2\\labs\\GraphAlgorithms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAgwB8BAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:12:44.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
